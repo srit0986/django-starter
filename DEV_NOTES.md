@@ -15,3 +15,7 @@ Personal development log — notes, findings, and ongoing work.
 - Verified API endpoint response schema
 - Checked for memory leaks in long-running path
 - Addressed feedback from self code review
+
+## 2026-03-23
+- Noted known limitation in docs
+- Removed unused variable declarations
