@@ -19,3 +19,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Noted known limitation in docs
 - Removed unused variable declarations
+
+## 2026-03-23
+- Updated CI cache strategy
+- Fixed off-by-one error in loop
